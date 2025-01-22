@@ -5,7 +5,10 @@
 ![image alt](https://github.com/girishvalluri192/Product_Sales_Analysis_Dashboard/blob/main/Home_Page.png)
 
 
+![image alt](https://github.com/girishvalluri192/Product_Sales_Analysis_Dashboard/blob/main/Products_Page.png)
 
+
+![image alt](https://github.com/girishvalluri192/Product_Sales_Analysis_Dashboard/blob/main/Customers_Page.png)
 
 ### Project Overview & Scope
 
@@ -23,10 +26,10 @@
 
 
 
-![image alt](https://github.com/girishvalluri192/Product_Sales_Analysis_Dashboard/blob/main/Products_Page.png)
 
 
 
 
 
-![image alt](https://github.com/girishvalluri192/Product_Sales_Analysis_Dashboard/blob/main/Customers_Page.png)
+
+
